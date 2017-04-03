@@ -1,7 +1,7 @@
 package Users;
 import Main.MyFoodora;
 import Policies.DeliveryPolicy;
-
+// coucou c'est moi
 public class Manager extends User {
 
 	private String name;
